@@ -96,8 +96,9 @@ The analysis helps guide data-driven marketing, customer retention, and subscrip
 5. Run SQL queries from queries.sql.
 6. Open Customer_Behavior_Dashboard.pbix in Power BI.
    
-Author
-Dinesh Kumar M
-Data Analyst | Python | SQL | Power BI
-   ```sql
-   CREATE DATABASE customer_behavior;
+## Author
+**Dinesh Kumar M**  
+Data Analyst | Python | SQL | Power BI  
+- Email: dineshkumarmmdr@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/dinesh-kumar-4b22672a7/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BN230MRQARyqCWVj4BTl8tA%3D%3D
+
